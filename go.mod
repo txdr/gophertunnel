@@ -1,4 +1,4 @@
-module github.com/sandertv/gophertunnel
+module github.com/txdr/gophertunnel
 
 go 1.22
 
@@ -13,13 +13,13 @@ require (
 	github.com/muhammadmuzzammil1998/jsonc v1.0.0
 	github.com/pelletier/go-toml v1.9.5
 	github.com/sandertv/go-raknet v1.14.2
+	github.com/sandertv/gophertunnel v1.43.0
 	golang.org/x/net v0.30.0
 	golang.org/x/oauth2 v0.23.0
 	golang.org/x/text v0.19.0
 )
 
 require (
-	github.com/davecgh/go-spew v1.1.1 // indirect
 	golang.org/x/crypto v0.28.0 // indirect
 	golang.org/x/image v0.21.0 // indirect
 )
